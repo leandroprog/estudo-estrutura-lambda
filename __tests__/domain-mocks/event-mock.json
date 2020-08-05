@@ -1,0 +1,20 @@
+{
+  "Records": [
+    {
+      "messageId": "1c22d141-0210-446b-aaf2-1c2014cc21a7",
+      "receiptHandle": "AQEBbvfLAHZ36bKh4k0WBcsAIvFUfUScHck0A+xtP/8tiAtE+oEDda6yMW1XGiuq6SBOMZibzFZyAXrxtfvwSpgowsSNSgcPqdD422rB61g02RO+8Npax/+CBD4+nLf7skFro1Q4crfyld4jeBuajoSCliLdUoHv7QwmHrFFeGQIxz4+QofCfdNh+HmwoywJl5jSqXg1SH/FJWaswOeVuZDZgVtW2lH2Vxd202yOPieMt+8IhYf6TBCKDnWcRYaCWk2iXYR8SZ7SSJWeb/naJPo88L/3x38gnCTga2YGidajEHRGWUMKcwysmI1m4iILAKbGPg0LX7V404Rv8V6M6v90Sv0EGoyCLnNsiApUy+DOhUVFY6BOnwxSL4yxyu6g0IeY858gBvm66ARsMVYcOYlOaA==",
+      "body": "{\n  \"Type\" : \"Notification\",\n  \"MessageId\" : \"1efd3a2f-8820-5ef8-b661-6d7670c9c1e5\",\n  \"TopicArn\" : \"arn:aws:sns:sa-east-1:798354115863:SNS_PGT_REGISTRA_COMISSAO_DEV\",\n  \"Subject\" : \"Lambda-sendMessageSNSWithMonitor\",\n  \"Message\" : \"{\\\"teste\\\":1,\\\"QueueMonitorId\\\":1591811656065}\",\n  \"Timestamp\" : \"2020-06-09T20:52:57.478Z\",\n  \"SignatureVersion\" : \"1\",\n  \"Signature\" : \"OzIjSpQR6RyhWBURhPkK49hwEyeAfBxVv5eTlWzgmWXVOE7ugUARSejXxO8rA6R7H8Ke/VfDzQYkwfzEPaRfFWMJ04uJ4ykdUOMCRTTZY2Ri6Q7PpH/Ssb7pHlP0SsR+2gdxQ+mfDROExpiD7/KFD+OMM0DolPLEk8pgmfDmyL92V8MzmnBaHxarnXqyyYIe/TgWuLExZ2sUCohrv7NbrL4pilmBGx+g33P5H8/8Cv1dQr4BivJFkI8ehzdvj1J4jhy6wTq3WpqmvBaASzpm4PGogbwbMtzAhkVo7x87PL/hG+xDTsng/0cVBLxWtvgl+cjHdWwUt7B7G9vd1DDrBg==\",\n  \"SigningCertURL\" : \"https://sns.sa-east-1.amazonaws.com/SimpleNotificationService-a86cb10b4e1f29c941702d737128f7b6.pem\",\n  \"UnsubscribeURL\" : \"https://sns.sa-east-1.amazonaws.com/?Action=Unsubscribe&SubscriptionArn=arn:aws:sns:sa-east-1:798354115863:SNS_PGT_REGISTRA_COMISSAO_DEV:3bc52f43-4fdb-4f4e-9df9-cdfe039479cc\"\n}",
+      "attributes": {
+        "ApproximateReceiveCount": "1",
+        "SentTimestamp": "1591735977558",
+        "SenderId": "AIDAIOA2GYWSHW4E2VXIO",
+        "ApproximateFirstReceiveTimestamp": "1591735977563"
+      },
+      "messageAttributes": {},
+      "md5OfBody": "12bda427c3ff8b5d6bc7674183dee1f9",
+      "eventSource": "aws:sqs",
+      "eventSourceARN": "arn:aws:sqs:sa-east-1:798354115863:SQS_GRAVAME_ACOES_DEV",
+      "awsRegion": "sa-east-1"
+    }
+  ]
+}

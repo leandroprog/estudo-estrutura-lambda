@@ -1,0 +1,22 @@
+{
+  "name": "pgt-registra-comissao",
+  "version": "1.0.0",
+  "description": "Lambda que recebe e registra as informações de comissão vindas do rateio de cobrança",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node testLambda"
+  },
+  "keywords": [
+    "comissao"
+  ],
+  "author": "Leandro Rocha",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.6.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "prettier": "^2.0.5"
+  }
+}
